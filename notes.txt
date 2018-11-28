@@ -1,0 +1,16 @@
+todo
+
+CSS Grid
+Page content
+Design
+Paginas -   Home
+            Over ons
+            Instrumenten
+            Events
+            Media
+            Contact
+            
+
+Done 
+Naam - Rockplay
+Basic GH Setup
